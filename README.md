@@ -1,5 +1,10 @@
 # Twitter-Lite
 Through this app, you can tweet, follow other users, watch their tweets. After installing, please check the "Help" section in menu. **This app needs Internet connection.**
+
+<p align="center">
+     <img src="https://github.com/AArgharupa/TwitterLiteSourceCode/blob/master/ParseStarterProject/src/main/res/drawable/twitter.png" width="20%">
+</p>
+
 ## Download
 Download the Apk file on your Android phone and just install the App via it. In case the "Install from Unknown source" is off, please on the feature and install the app. Enjoy!!
 
